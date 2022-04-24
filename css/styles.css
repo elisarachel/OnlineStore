@@ -8,16 +8,16 @@
  */
 
 @font-face {
-    font-family: 'BadBoys';
-    src: url(/fonts/BadBoys.woff2) format('woff2'),
-        url(/fonts/BadBoys.woff) format('woff');
+    font-family: 'Bad Boys';
+    src: url('../fonts/BadBoys.woff2') format('woff2'),
+        url('../fonts/BadBoys.woff') format('woff');
 }
 
 * {
-    font-family: 'BadBoys';
+    font-family: 'Bad Boys';
     text-transform: uppercase;
     color: black;
-    font-size: 1rem;
-    font-weight: 740;
+    font-size: 1.3rem;
+    font-weight: normal;
     line-height: 1;
 }
