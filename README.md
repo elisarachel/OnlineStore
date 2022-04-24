@@ -1,4 +1,4 @@
-# Online Store
+# Online Store - ddeoli 떨이
 Projeto para a matéria **SSC0219 - Introdução ao desenvolvimento web**.
 
 ## Requisitos
