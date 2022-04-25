@@ -1,30 +1,37 @@
 # Online Store - ddeoli 떨이
 Projeto para a matéria **SSC0219 - Introdução ao desenvolvimento web**.
 
+## Membros
+
+- Elisa Rachel Beninca Martins
+- Lourenço de Salles Roselino nUsp 11796805
+- Melissa Motoki Nogueira nUsp 5588687
+
 ## Requisitos
 
-1. O sistema deve ter 2 tipos de usuários:
-2. Listagem de produtos: 
-3. Venda de produtos:
-4. Gerenciamento de produtos:
-5. Gerenciamento de usuarios:
-6. O sistema deve ser acessivel e ter boa usuabilidade.
-7. O sistema deve ser responsivo.
+- O sistema deve ter 2 tipos de usuários:
+	- Administradores, responsaveis pela a adição de manutenção de novos produtos e usuário. A aplicação já vem com um admin com o nome de usuário _admin_ e a senha _admin_, o sistema armazena o id, telefone e email dos adminsitradores.
+	- Clientes, que vão acessar o sistema para comprar roupas e acessórios, além de nome, endereço de entrega, telefone e email também deve ser armazenado o _grupo_ preferido do usuário.
+- O sistema vende roupas e acessórios baseados no de _grupos_ de _kpop_, vai ser registrado ao produto seu nome, descrição, id, foto, preço, quantidade em estoque, quantidade a venda, quantidade vendida, grupo que ele foi inspirado e status da venda.
+- O sistema deve permitir que o usuário adicione seus produtos a um carrinho, escolhendo quantidade e posteriormente compre o produto pagando por cartão de crédito.
+- O sistema deve permitir que o usuário selecione seu _grupo_ ou _idol_ preferido, recebendo descontos e notificações por _newsletter_ ou _popup_ quando novos produtos chegarem.
+- O sistema deve permitir que o usuário acompanhe os _status_ de seu pedido.
+- O sistema deve ser acessivel e ter boa usuabilidade.
+- O sistema deve ser responsivo.
 
 ## Descrição do projeto
 
-Donec dignissim eu velit ac tempus. Donec id aliquam ligula. Etiam sed est sit amet sem laoreet rhoncus. Quisque vitae felis elit. Nulla facilisi. 
-
+O projeto consiste de uma _plataforma web_ para compra de roupas e acessórios baseados em grupos e _idols_ de _kpop_, permitindo a busca e compra de roupas, listagens por categorias e grupos e também inserção, atualização e remoção de produtos por admins.
 
 ## Comentários sobre o código
 
-Sed imperdiet mi at aliquam pretium. Maecenas bibendum lacus sit amet libero vestibulum pretium. Integer consequat erat tortor. Donec commodo lacus vitae facilisis placerat. Curabitur aliquet ipsum in arcu congue molestie. Nulla a augue in nibh scelerisque dapibus ac at arcu. Aliquam neque odio, viverra non cursus sit amet, maximus faucibus enim.
 
 Estrutura:
 -
 
 ## Plano de teste
 
+Existirão testes automatizados utilizando Jest e Postman, também vai haver um sistema de CI/CD com testes de perfomance para garantia do funcionamento do sistema durante o desenvolvimento.
 
 
 ## Procedimento de compilação
