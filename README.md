@@ -41,4 +41,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id metus varius, 
 
 ## Comentários
 
-Mockups(desenho) das telas do sistema, e o diagrama de navegação podem ser acessados no arquivo: [Mockups.pdf]
+Mockups(desenho) das telas do sistema, e o diagrama de navegação podem ser acessados no link: https://www.figma.com/file/pKx61zKzwN7EaB5D3i80yj/ddeoli?node-id=4%3A3
