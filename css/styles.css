@@ -19,3 +19,34 @@
     font-weight: normal;
     line-height: 1;
 }
+
+.nav-link:hover, i:hover, a:hover, .fit-div:hover, .carousel-item:hover{
+    text-decoration: overline;
+    opacity: 80%;
+
+}
+
+.fit-div{
+    width: 100%;
+    height: inherit;
+    object-fit: cover;
+    object-position: 100% center;
+    overflow: hidden;
+}
+
+.product{
+    max-height: 600px;
+}
+
+.text-img{
+    max-height: 400px;
+    position: relative;
+}
+
+.text-img > img, .overlay-text{
+    position: absolute;
+}
+
+/*.product-img{
+
+}*/
