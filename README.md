@@ -1,4 +1,20 @@
 # Online Store - ddeoli 떨이
+´´´html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  background-color: #FFFFFF;
+}
+</style>
+</head>
+<body>
+<p align="center"><img src="img/ddeoli.svg" /></p>
+<p align="center"><img src="assets/favicon.svg" /></p>
+</body>
+</html>
+
 ![Screenshot](img/ddeoli.svg)
 ![Screenshot](assets/favicon.svg)
 
