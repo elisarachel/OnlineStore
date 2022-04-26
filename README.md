@@ -4,8 +4,8 @@
 <head>
 </head>
 <body>
-<p align="center"><img src="img/ddeoli.svg" style="background-color: #FFFFFF;" /></p>
-<p align="center"><img src="assets/favicon.svg" style="background-color: #FFFFFF;" /></p>
+<p align="center"><img src="img/ddeoli.svg" style="fill: #FFFFFF;" /></p>
+<p align="center"><img src="assets/favicon.svg" style="fill: #FFFFFF;" /></p>
 </body>
 </html>
 
