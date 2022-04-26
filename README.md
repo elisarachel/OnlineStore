@@ -2,15 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-img {
-  background-color: #FFFFFF;
-}
-</style>
 </head>
 <body>
-<p align="center"><img src="img/ddeoli.svg" /></p>
-<p align="center"><img src="assets/favicon.svg" /></p>
+<p align="center"><img src="img/ddeoli.svg" style="background-color: #FFFFFF;" /></p>
+<p align="center"><img src="assets/favicon.svg" style="background-color: #FFFFFF;" /></p>
 </body>
 </html>
 
