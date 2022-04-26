@@ -52,9 +52,6 @@ Existirão testes automatizados utilizando Jest e Postman, também vai haver um 
 Para rodar a aplicação.
 
 
-Para parar a aplicação.
-
-
 ## Problemas enfrentados
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id metus varius, maximus enim quis, hendrerit libero. Nunc pretium nibh sed faucibus pulvinar. Phasellus in tristique orci, et lacinia justo. In nunc magna, condimentum a urna ut, aliquet pellentesque libero.
