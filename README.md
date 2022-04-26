@@ -1,4 +1,6 @@
 # Online Store - ddeoli 떨이
+![Screenshot](ddeoli.svg)
+![Screenshot](favicon.svg)
 Projeto para a matéria **SSC0219 - Introdução ao desenvolvimento web**.
 
 ## Membros
