@@ -39,8 +39,8 @@ O nome _ddeoli(떨이)_ é uma palavra da língua coreana. O termo refere-se aos
 ## Comentários sobre o código
 
 
-Estrutura:
--
+## Estrutura (Diagrama de Navegação)
+![Screenshot](Sitemap.drawio.svg)
 
 ## Plano de teste
 
