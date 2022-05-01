@@ -14,7 +14,6 @@ Projeto para a matéria **SSC0219 - Introdução ao desenvolvimento web**.
 
 ## Membros
 
-- Elisa Rachel Beninca Martins
 - Lourenço de Salles Roselino nUsp 11796805
 - Melissa Motoki Nogueira nUsp 5588687
 
