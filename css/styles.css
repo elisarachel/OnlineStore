@@ -24,7 +24,7 @@
 
 /*@font-face {
     font-family: 'Karma Regular';
-    font-style: normal;
+    font-sty    le: normal;
     font-weight: normal;
     src: local('Karma Regular'), url('../fonts/Karma-Regular.woff') format('woff');
     }
@@ -61,21 +61,20 @@ font-weight: normal;
 src: local('Karma Bold'), url('../fonts/Karma-Bold.woff') format('woff');
 }*/
 
-
-* {
-    font-family: 'Bad Boys';
-    font-size: 1.2rem;
-    font-weight: normal;
-    line-height: 1;
-}
-
-button, .badge, .text-center > a{
+body {
     font-family: 'Eurostile Extended';
     text-transform: uppercase;
-    font-size: 0.6rem;
+    font-size: 0.8rem;
     font-weight: bold;
     line-height: 2;
 } 
+
+.navbar, footer{
+    font-family: 'Bad Boys';
+    font-size: 1.5rem;
+    font-weight: normal;
+    line-height: 1;
+}
 
 
 .nav-link:hover, i:hover, a:hover, .fit-div:hover, .carousel-item:hover{
