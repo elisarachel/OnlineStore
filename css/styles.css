@@ -91,16 +91,6 @@ body {
     overflow: hidden;
 }
 
-.div-profile{
-    width: 100%;
-    object-fit: cover;
-    object-position: 100% center;
-    overflow: hidden;
-    border: 0px;
-    border-radius: 0%;
-    filter:blur(1.5px) brightness(0.45)
-}
-
 .fit-div.card-img{
     height: 100%;
 }
@@ -118,40 +108,11 @@ body {
     border-radius: 0%;
 }
 
-.img-profile{
-    border: 0px;
-    border-radius: 0%;
-}
-
-.text-profile{
-    color: whitesmoke;
-    top:40%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    font-size: 20px;
-}
-
-.title-profile{
-    color: whitesmoke;
-    top:50%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    font-size: 40px;
-}
-
-.centered {
-    position: absolute;
-    padding-left: 20%;
-    text-align: left;
-}
-
 .card a{
     opacity: 100%;
     color: black;
 }
-.card:hover {
+.card:hover *{
     text-decoration: overline;
     opacity: 80%;
 }
