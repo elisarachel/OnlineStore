@@ -14,8 +14,8 @@ Projeto para a matéria **SSC0219 - Introdução ao desenvolvimento web**.
 
 ## Membros
 
-- Lourenço de Salles Roselino nUsp 11796805
-- Melissa Motoki Nogueira nUsp 5588687
+- Lourenço de Salles Roselino | NUSP 11796805
+- Melissa Motoki Nogueira | NUSP 5588687
 
 ## Requisitos
 
